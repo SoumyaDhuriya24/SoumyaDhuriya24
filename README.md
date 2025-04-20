@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **soumyad.b03@gmail.com.com**
+- 📫 How to reach me **soumyad.b03@gmail.com**
 
 - ⚡ Fun fact **I am Proactive.**
 
