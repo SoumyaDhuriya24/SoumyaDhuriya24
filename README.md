@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Machine Learning Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SoumyaDhuriya24&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadhuriya" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -44,4 +42,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoumyaDhuriya24&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SoumyaDhuriya24" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoumyaDhuriya24&show_icons=true&locale=en&theme=tokyonight" alt="SoumyaDhuriya24" /></p>
 <p><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SoumyaDhuriya24&count_private=true&theme=react&border_radius=10&theme=tokyonight" alt="Kartik's Streak Stats"/>
+
+
+
+
 </p>
